@@ -1,0 +1,19 @@
+
+#ifndef __DEFINE_IMAGE_H
+#define __DEFINE_IMAGE_H
+
+#define NO_WRITE_ALPHA 26
+
+#define IMAGE_SUCCESS 0
+#define LOAD_IMAGE_NO_FIND_FILE 1
+
+#define WRITE_IMAGE_NO_WRITE 3
+#define WRITE_IMAGE_NO_PLACE 4
+#define COPY_IMAGE_DIFFERENT_CHANNELS 5
+
+#define IMAGE_NONE_INIT 6
+
+#define ATLAS_NO_PAST 7
+
+
+#endif
